@@ -6,3 +6,5 @@ echo -e "Today's date and time is \c";date
 echo -e "Users logged \c";who | wc -l
 cal
 exit 0
+#!/bin/bash
+
